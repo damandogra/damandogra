@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @damandogra
 - 👀 I’m interested in exploring the role of Geospatial tools in urban planning
-- 🌱 I’m currently studying M.Sc. Geoamtics at Delft University of Technology
+- 🌱 I’m currently studying M.Sc. Geomatics at Delft University of Technology
 - 📫 You can reach me  at damandograa@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: No fun
