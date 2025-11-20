@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @damandogra
-- 👀 I’m interested in exploring the role of Geospatial tools in urban planning
-- 🌱 I’m currently studying M.Sc. Geomatics at Delft University of Technology
-- 📫 You can reach me  at damandograa@gmail.com
-- ⚡ Fun fact: No fun
+- Hi, I’m @damandogra
+- I’m interested in exploring the role of Geospatial tools in urban planning
+- Currently studying M.Sc. Geomatics at Delft University of Technology
+- reach out at damandograa@gmail.com
