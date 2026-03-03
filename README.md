@@ -1,4 +1,4 @@
 - Hi, I’m @damandogra
-- I’m interested in exploring the role of Geospatial tools in understanding urban intricacies.
+- My interest lies in mainstreaming the Systems Dynamics approach for urban planning by employing data to understand the complex urban intricacies and develop methodlogies to integrate them into the urban planning ecosystem.
 - Currently studying M.Sc. Geomatics at Delft University of Technology
 - reach out at damandograa@gmail.com
