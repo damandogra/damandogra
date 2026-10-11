@@ -1,5 +1,3 @@
-- Hi, I’m @damandogra
 - My interest lies in mainstreaming the Systems Dynamics approach for urban planning by leveraging data to understand complex urban dynamics and develop methodologies to integrate them into the urban planning ecosystem.
 - Currently studying M.Sc. Geomatics at Delft University of Technology
 - web portfolio: https://damandogra.github.io/
-- reach out at damandograa@gmail.com
